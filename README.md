@@ -23,15 +23,10 @@ NextGen Traffic Insights is an AI-powered real-time traffic analysis system that
 NextGen-Traffic-Insights/
 
 │── Smart-Traffic-Analyzer/
-
 │ ├── real_time_traffic_analysis.py # Main script
-
 │ ├── yolov8s.pt # YOLOv8 pretrained model
-
 │ ├── output.avi # Saved annotated video
-
 │ ├── requirements.txt # Dependencies
-
 │ └── README.md # Project documentation
 
 ---
