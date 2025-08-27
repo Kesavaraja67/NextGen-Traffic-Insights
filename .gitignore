@@ -1,0 +1,43 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model weights and large files
+*.pt
+*.onnx
+*.engine
+*.tflite
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Output folders
+runs/
+outputs/
+results/
