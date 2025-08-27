@@ -63,7 +63,7 @@ NextGen-Traffic-Insights/
 
    Below is an example of how vehicles are detected and tracked in real-time:
     
-   👉 (![Traffic Detection Example](traffic_detection.png))
+   ![Traffic Detection Example](traffic_detection.png)
     
     
 📊 Example Final Report:
