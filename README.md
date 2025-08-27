@@ -55,25 +55,34 @@ NextGen-Traffic-Insights/
   
 🖼️ How It Works
 
-    Below is an example of how vehicles are detected and tracked in real-time:
+   Below is an example of how vehicles are detected and tracked in real-time:
     
-    👉 (Add your screenshot here)
+   👉 (![Traffic Detection Example](images/traffic_detection.png))
     
-    ![Traffic Detection Example](images/traffic_detection.png)
+    
+📊 Example Final Report:
 
-📊 Example Final Report
-    =========== Final Traffic Analysis Report ===========
-    Total Unique Vehicles Detected: 52
-    Maximum Vehicles in a Frame: 7
-    Overall Traffic Condition: Heavy
-    Average Inference Speed: 115.4 ms/frame (≈ 8.7 FPS)
-    =====================================================
+  =========== Final Traffic Analysis Report ===========
+  
+  Total Unique Vehicles Detected: 52
+    
+  Maximum Vehicles in a Frame: 7
+    
+  Overall Traffic Condition: Heavy
+    
+  Average Inference Speed: 115.4 ms/frame (≈ 8.7 FPS)
+    
+ =====================================================
 
 🔮 Future Enhancements
 
-    Multi-camera integration for larger intersections
-    Advanced traffic flow classification (Low / Medium / High)
-    Dashboard for real-time traffic monitoring
+  Multi-camera integration for larger intersections
+  
+  Advanced traffic flow classification (Low / Medium / High)
+  
+  Dashboard for real-time traffic monitoring
+
+---
 
 🧑‍💻 Author
 
