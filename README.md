@@ -48,7 +48,7 @@ NextGen-Traffic-Insights/
    env\Scripts\activate   # On Windows
    pip install -r requirements.txt
 
-▶️ Usage
+## ▶️ Usage
 
     Run the real-time traffic analysis:
     python real_time_traffic_analysis.py
@@ -59,7 +59,7 @@ NextGen-Traffic-Insights/
   A Final Traffic Analysis Report will be printed in the terminal.
   Annotated video will be saved as output.avi.
   
-🖼️ How It Works
+## 🖼️ How It Works
 
    Below is an example of how vehicles are detected and tracked in real-time:
     
@@ -67,7 +67,7 @@ NextGen-Traffic-Insights/
 
  ---
  
-📊 Example Final Report:
+## 📊 Example Final Report:
   
   Total Unique Vehicles Detected: 52
     
@@ -79,7 +79,7 @@ NextGen-Traffic-Insights/
 
 ---
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
   Multi-camera integration for larger intersections
   
@@ -89,10 +89,12 @@ NextGen-Traffic-Insights/
 
 ---
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 
-Kesavaraja
+Kesavaraja M
+
 Computer Science Engineering (AI & ML)
+
 Tiruchirappalli
 
    
