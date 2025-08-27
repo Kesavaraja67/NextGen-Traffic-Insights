@@ -64,11 +64,10 @@ NextGen-Traffic-Insights/
    Below is an example of how vehicles are detected and tracked in real-time:
     
    ![Traffic Detection Example](traffic_detection.png)
-    
-    
-📊 Example Final Report:
 
-  =========== Final Traffic Analysis Report ===========
+ ---
+ 
+📊 Example Final Report:
   
   Total Unique Vehicles Detected: 52
     
@@ -77,8 +76,8 @@ NextGen-Traffic-Insights/
   Overall Traffic Condition: Heavy
     
   Average Inference Speed: 115.4 ms/frame (≈ 8.7 FPS)
-    
- =====================================================
+
+---
 
 🔮 Future Enhancements
 
