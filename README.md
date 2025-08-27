@@ -22,12 +22,12 @@ NextGen Traffic Insights is an AI-powered real-time traffic analysis system that
 ## 📂 Project Structure  
 NextGen-Traffic-Insights/
 
-│── Smart-Traffic-Analyzer/
-│ ├── real_time_traffic_analysis.py # Main script
-│ ├── yolov8s.pt # YOLOv8 pretrained model
-│ ├── output.avi # Saved annotated video
-│ ├── requirements.txt # Dependencies
-│ └── README.md # Project documentation
+─ Smart-Traffic-Analyzer/
+─ real_time_traffic_analysis.py # Main script
+─ yolov8s.pt # YOLOv8 pretrained model
+─ output.avi # Saved annotated video
+─ requirements.txt # Dependencies
+─ README.md # Project documentation
 
 ---
 
@@ -48,11 +48,11 @@ NextGen-Traffic-Insights/
     Run the real-time traffic analysis:
     python real_time_traffic_analysis.py
     
-  A video window will open showing real-time detections.
-  Vehicles will be tracked with unique IDs.
-  Lane-wise vehicle counts will appear on screen.
-  A Final Traffic Analysis Report will be printed in the terminal.
-  Annotated video will be saved as output.avi.
+-  A video window will open showing real-time detections.
+-  Vehicles will be tracked with unique IDs.
+-  Lane-wise vehicle counts will appear on screen.
+-  A Final Traffic Analysis Report will be printed in the terminal.
+-  Annotated video will be saved as output.avi.
   
 ## 🖼️ How It Works
 
@@ -64,13 +64,10 @@ NextGen-Traffic-Insights/
  
 ## 📊 Example Final Report:
   
-  Total Unique Vehicles Detected: 52
-    
-  Maximum Vehicles in a Frame: 7
-    
-  Overall Traffic Condition: Heavy
-    
-  Average Inference Speed: 115.4 ms/frame (≈ 8.7 FPS)
+-   Total Unique Vehicles Detected: 52
+-  Maximum Vehicles in a Frame: 7
+-  Overall Traffic Condition: Heavy
+-  Average Inference Speed: 115.4 ms/frame (≈ 8.7 FPS)
 
 ---
 
