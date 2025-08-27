@@ -1,6 +1,6 @@
 # 🚦 NextGen Traffic Insights  
 
-### Author: Kesavaraja  
+### Author: Kesavaraja M 
 
 NextGen Traffic Insights is an AI-powered real-time traffic analysis system that uses a fine-tuned **YOLOv8 model** along with **ByteTrack** to detect and count vehicles accurately from live video feeds. The system also classifies **lane-wise traffic flow** as *Smooth* or *Heavy*, while generating a detailed final traffic analysis report.  
 
